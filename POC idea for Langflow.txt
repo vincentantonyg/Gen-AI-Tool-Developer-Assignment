@@ -1,0 +1,6 @@
+POC idea for Langflow :
+
+To create a new AI Agent that will create scenarios and test cases from user stories, requireemnt document, manual requirement input by user.
+then create thet scripts using selenium java for the created test cases.
+Execute the created selenium test scripts and capture the passed and failed tests with screen shots.
+option to rerun the failed scripts, generate the final report.
